@@ -1,0 +1,16 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+}
+
+.input {
+  padding: 10px;
+  border-radius: 4px;
+  border: none;
+}
