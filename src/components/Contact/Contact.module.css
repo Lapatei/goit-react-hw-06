@@ -1,4 +1,4 @@
-li {
+.item {
   border: 2px solid gray;
   display: flex;
   flex-direction: column;
